@@ -9,13 +9,13 @@
 
 - 💬 Ask me about **Flutter, Node/Express, Typescript, Go, Python, Software Engineering & College in General**
 
-- 📫 How to reach me **akmadan1717@gmail.com**
+- 📫 How to reach me **kevinshingala73462@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/akshit-madan-394a82a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshit-madan-394a82a6/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/akshitmadan_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/akshitmadan_/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucblphb6_k7x1p28ocyxmswg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucblphb6_k7x1p28ocyxmswg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kevin-shingala-bb4488221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kevin-shingala-bb4488221/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_kevin_shingala_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_kevin_shingala_/" height="30" width="40" /></a>
+<a href="https://kevinshingala.notion.site/kevinshingala/Flutter-Developer-for-Android-iOS-Web-and-Desktop-03e9593f11f846c0b3baf202aad4ebe0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://kevinshingala.notion.site/kevinshingala/Flutter-Developer-for-Android-iOS-Web-and-Desktop-03e9593f11f846c0b3baf202aad4ebe0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
